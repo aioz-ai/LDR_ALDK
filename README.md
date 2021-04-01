@@ -1,5 +1,4 @@
-# LDR_ALDK
-## Light-weight Deformable Registration using Adversarial Learning with Distilling Knowledge
+# Light-weight Deformable Registration using Adversarial Learning with Distilling Knowledge (LDR-ALDK)
 
 Repo for our **LDR-ALDK** proposal.
 
