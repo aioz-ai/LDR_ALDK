@@ -1,0 +1,17 @@
+datasets
+evaluate
+env
+venv
+weights
+logs
+*pyc
+*zip
+.idea
+10k_iters/
+38k_iters/
+99k_iters/
+*.pkl
+eval.sh
+train.sh
+train1.sh
+ldr_ad/
