@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 ### Datasets
 #### 1. Liver-and-brain-scanned datasets
-Create the `datasets/` directory and download the datasets from [here](https://drive.google.com/drive/folders/1jJzKgQYZBCGExbjym5Sjq6t-iIfrVXiQ?usp=sharing)
+Create the `datasets/` directory then follow this [repo](https://github.com/microsoft/Recursive-Cascaded-Networks#datasets) to download and extract the data.
 #### 2. Extracted teacher deformations
 Create the `Teacher_deformation/` folder and
 download our extracted teacher (`Teacher_deformations.zip`) deformations from [here](https://vision.aioz.io/d/150a081d8ea84ea685da/).   
