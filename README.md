@@ -82,6 +82,7 @@ If you use this code as part of any published research, we'd really appreciate i
 ```
 Updating
 ```
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4738722.svg)](https://doi.org/10.5281/zenodo.4738722)
 
 ### Acknowledgement
 Many thanks to this thorough repository ([RCN](https://github.com/microsoft/Recursive-Cascaded-Networks)).
