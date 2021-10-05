@@ -80,7 +80,14 @@ python eval.py --gpu 0 --batch 1 --checkpoint weights/1cas_LDR_ALDK_Brain
 ### Citation
 If you use this code as part of any published research, we'd really appreciate it if you could cite the following paper:
 ```
-Updating
+@misc{tran2021lightweight,
+      title={Light-weight Deformable Registration using Adversarial Learning with Distilling Knowledge}, 
+      author={Minh Q. Tran and Tuong Do and Huy Tran and Erman Tjiputra and Quang D. Tran and Anh Nguyen},
+      year={2021},
+      eprint={2110.01293},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
 ```
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4755947.svg)](https://doi.org/10.5281/zenodo.4755947)
 
